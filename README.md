@@ -7,7 +7,7 @@ Andrew Hendricks (AndrewHHendricks@gmail.com)
 Links to Notebooks and Documents:
 
 [Final Analysis Notebook](https://github.com/ahendricks2/MovieBudgetOptimization/blob/master/Final_Analysis_Notebook.ipynb)
-[Random Sampling Notebook 1] (https://github.com/ahendricks2/MovieBudgetOptimization/blob/master/BudgetOptimizationTests1-10.ipynb)
+[Random Sampling Notebook 1](https://github.com/ahendricks2/MovieBudgetOptimization/blob/master/BudgetOptimizationTests1-10.ipynb)
 [Random Sampling Notebook 2](https://github.com/ahendricks2/MovieBudgetOptimization/blob/master/BudgetOptimizationTests11-20.ipynb)
 [Random Sampling Notebook 3](https://github.com/ahendricks2/MovieBudgetOptimization/blob/master/BudgetOptimizationTests21-30.ipynb)
 [Calclulations for Median Outcomes](https://docs.google.com/spreadsheets/d/1o0E2XP9nXAZeYJsLwtY1qCmxErmuV-2pQQFe5gnHqN4/edit?usp=sharing)
@@ -51,7 +51,7 @@ From this analysis, the movie student would optimize a given budget by investing
 
 To further explore, I did a second round of analysis using random sampling with replacement. I started by selecting a random high-budget film from the data set. Then, I selected a random number of mid-budget and low-budget films so that the overall budgets of each project were within $5 million of one another. For each trial, I compared how each budget investment strategy compared to the others; in the end I compared the median outcome of each strategy.
 
-
+<img width="511" alt="Screenshot 2023-11-05 195625" src="https://github.com/ahendricks2/MovieBudgetOptimization/assets/141271148/c6e5e084-32d9-483d-b6d6-ae601f1cf110">
 
 ## Results and Conclusion
 

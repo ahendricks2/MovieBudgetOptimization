@@ -35,17 +35,17 @@ Next, because production budgets don’t include expenses like marketing or the 
 
 A single high-budget film had the strongest median outcome in terms of gross to budget ratio, but a single low-budget film had the highest mean outcome.
 
-![0_C4bfWySStygvlK9F](https://github.com/ahendricks2/MovieBudgetOptimization/assets/141271148/a8104d19-4fa4-4102-9d64-ac58e79f5187)
+<img width="509" alt="s1" src="https://github.com/ahendricks2/MovieBudgetOptimization/assets/141271148/6e77c68a-3432-47be-9159-898534bfc806">
 
 Based on those results, I investigated further to find out why the mean and median outcomes were so different and to see whether a few extremely high grossing low-budget films were skewing the mean higher. I broke down the budget categories into successes and failures based on the definitions above.
 
-![0_7vmXNJ1jh270vol0](https://github.com/ahendricks2/MovieBudgetOptimization/assets/141271148/318506dd-52db-470b-9220-8dd0665a1fd3)
+<img width="506" alt="s2" src="https://github.com/ahendricks2/MovieBudgetOptimization/assets/141271148/66f8ec60-e84b-44d7-ae2d-46a65d7d3414">
 
 Looking at only the successes in each categories, the median outcomes now heavily favored low-budget films. While the median outcomes for failures were also the worst, the strength of the successes substantialy outweighed the strength of the failures.
 
 I then left my analysis of individual films and returned to the original question of whether it would be better to invest in a single high-budget film, multiple mid-budget films, or a large amount of low-budget films by using the success and failure rates and the median outcomes of the successes and failures for films in each category.
 
-![0_X7eUAVGgUO_J1Zhf](https://github.com/ahendricks2/MovieBudgetOptimization/assets/141271148/9017597b-67a5-4c0b-848b-2453da73fd10)
+<img width="509" alt="s3" src="https://github.com/ahendricks2/MovieBudgetOptimization/assets/141271148/1c83b65e-7819-4d6b-b44f-5f8aac59e173">
 
 From this analysis, the movie student would optimize a given budget by investing in a high volume of low-budget films.
 
